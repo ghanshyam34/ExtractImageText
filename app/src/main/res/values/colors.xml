@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+
+    <color name="actionbarbackground">#2a2a2a</color>
+    <color name="myPrimaryDarkColor">#e50b23</color>
+    <color name="myAccentColor">#FF0000</color>
+    <color name="myDrawerBackground">#E3F2FD</color>
+    <color name="myWindowBackground">#ffffff</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myNavigationColor">#000000</color>
+
+    <color name="selection">#e50b23</color>
+    <color name="header_color">#e5e5e5</color>
+
+    <color name="white_color">#fff</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+
+    <color name="placeholder_text_color">#727b82</color>
+
+    <color name="gray_color">#808080</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="redTransparent">#55000000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="transparent85">#82d151</color>
+    <color name="transparent">#20000000</color>
+    <color name="transparent2">#50000000</color>
+    <color name="androidtransparent">@android:color/transparent</color>
+    <color name="transparent80">#80000000</color>
+
+
+    <!--input field background color-->
+    <color name="inputfield_gray_light_color">#e4e4e4</color>
+    <color name="inputfield_gray_mideum_color">#d3d3d3</color>
+    <color name="inputfield_graydark_color">#bdbdbd</color>
+
+
+
+    <color name="gray_light">#80000000</color>
+
+    <color name="facebook_login_button_color">#e3e3e3</color>
+    <color name="email_login_button_color">@color/white</color>
+    <color name="facebook_login_text_color">#000000</color>
+    <color name="signup_terms_condition_text_color">#6f6f6f</color>
+
+
+    <color name="login_headerbg_color">#2a2a2a</color>
+    <color name="login_field_outline_colorr">#818181</color>
+    <color name="all_input_field_txt_color">#2a2a2a</color>
+    <color name="forgot_text_color">#6f6f6f</color>
+
+    <color name="inputfield_fill_bg_color">#00000000</color>
+
+    <color name="dashboard_headerbg_color">#2a2a2a</color>
+    <color name="dashboard_footerbg_color">#2a2a2a</color>
+    <color name="dashboard_follow_requests_txt_color">#2a2a2a</color>
+    <color name="dashboard_post_txt_color">#c0c0c0</color>
+    <color name="dashboard_approve_txt_color">#c0c0c0</color>
+    <color name="dashboard_circle_color">#2a2a2a</color>
+
+    <color name="dashboard_footer_inactive_tab_color">#2a2a2a</color>
+    <color name="dashboard_footer_active_tab_color">#3a3a3a</color>
+
+    <color name="textcolor_postuser">#2a2a2a</color>
+    <color name="textcolor_postdate">#c0c0c0</color>
+    <color name="textcolor_postviewfooter">#c0c0c0</color>
+
+
+
+
+</resources>
